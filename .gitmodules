@@ -1,0 +1,6 @@
+[submodule "ext/glfw/glfw"]
+	path = ext/glfw/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "ext/pybind11/pybind11"]
+	path = ext/pybind11/pybind11
+	url = https://github.com/wjakob/pybind11.git
